@@ -1,11 +1,12 @@
 <h1>Hi 👋, I'm Mark Wong</h1>
-<h3>A software engineer with a passion for AI studying in NUS (year 2 CS)</h3>
+<h3>A software engineer with a passion for AI studying in NUS (year 2 CS)</h3>Cancel changes
 
 - 🔭 I’m currently working on **a Notion extension parsing email receipts and store into database**
 
 - 🌱 I’m currently learning **Flask, AWS Amplify and TensorFlow**
 
 - 👯 I’m currently a member of 
+  -  **NUS Red Cross Youth (Publicity Director, Developer Lead)**
   -  **NUS Fintech Society (Blockchain Developer)**
   -  **NUS Social Impact Catalyst (Project Manager)**
   -  **NUS Student Union Venture Enterprise (Web Developer)**
