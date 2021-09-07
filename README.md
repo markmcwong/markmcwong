@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mark Wong</h1>
-<h3>A software engineer with a passion for AI studying in NUS (yr2)</h3>
+<h3>A software engineer with a passion for AI studying in NUS (year 2 CS)</h3>
 
 - 🔭 I’m currently working on **a Notion extension parsing email receipts and store into database**
 
