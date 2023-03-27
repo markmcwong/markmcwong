@@ -3,18 +3,18 @@
 
 - 🔭 I’m currently working on **a Notion extension parsing email receipts and store into database**
 
-- 🌱 I’m currently learning **Sequence Models, PySpark and Hadoop**
+- 🌱 I’m currently learning **Computer Vision, Generative AI** and **exploring Facebook's Llama Model**
 
-- 👯 I’m currently a member of 
-  -  **NUS Red Cross Youth (Publicity Director, Developer Lead)**
-  -  **NUS Fintech Society (Blockchain Developer)**
-  -  **NUS Student Union Venture Enterprise (Web Developer)**
+- 👯 I am a member of 
+  -  **NUS Red Cross Youth (Publicity Director, Developer Lead) - AY 21/22 **
+  -  **NUS Fintech Society (Blockchain Developer) - AY 21/22 **
+  -  **NUS Student Union Venture Enterprise (Web Developer Lead) - AY 21/22 **
 
-- 💬 Ask me about **React, GraphQL, Firebase and Python**
+- 💬 Ask me about **Natural Language Processing, Data Analytics, or developing on AWS**
 
 - 📫 How to reach me - **mcwong@u.nus.edu**
 
-- 📄 Know more about my experiences [here](https://drive.google.com/file/d/1dOLsW9-H8slo2Te_nULrBAIjzc0EYm-N/view?usp=sharing)
+- 📄 Know more about my experiences [here](https://drive.google.com/file/d/1pbD2xig95pxL7qD6h5XFm6_p1hOpScn6/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
