@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="85">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65">
   Hi, I'm <a href="https://drive.google.com/file/d/1pbD2xig95pxL7qD6h5XFm6_p1hOpScn6/view?usp=sharing">Mark</a>! 
   <a href="https://linkedin.com/in/markmcwong">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-%23E34F26.svg?logo=maildotru&logoColor=white" alt="Email">
   </a>
   <img src="https://komarev.com/ghpvc/?username=markmcwong&label=Profile%20views&color=0e75b6&style=flat" alt="View count">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="85">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65">
 </h2>  
 
 <h3 align="center">
