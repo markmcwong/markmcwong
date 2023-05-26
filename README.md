@@ -24,7 +24,7 @@
 
 - 👯 Member of 
   -  NUS Red Cross Youth (Publicity Director, Developer Lead) - AY 21/22
-  -  NUS Fintech Society (Blockchain Developer) - AY 21/22**
+  -  NUS Fintech Society (Blockchain Developer) - AY 21/22
   -  NUS Student Union Venture Enterprise (Web Developer Lead) - AY 21/22
 
 - 💬 Ask me about Natural Language Processing, Data Analytics, or developing on AWS
