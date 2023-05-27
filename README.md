@@ -58,7 +58,7 @@
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markmcwong&show_icons=true&locale=en&layout=compact" alt="markmcwong" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=markmcwong&theme=default&hide_border=false&include_all_commits=false&count_private=true)
+![stat](https://github-readme-stats.vercel.app/api?username=markmcwong&theme=default&hide_border=true&include_all_commits=false&count_private=true)
 
 <details>
 <summary><h2>👇 More on my Frontend & Design Skills ✨</h2></summary>
