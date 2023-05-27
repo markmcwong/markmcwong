@@ -18,7 +18,7 @@
 ### About Me:
 
 
-- 🔭 Currently contributing to ![PrivateGPT](https://github.com/imartinez/privateGPT) to improve features and testing
+- 🔭 Currently contributing to [PrivateGPT](https://github.com/imartinez/privateGPT) to improve features and testing
 
 - 🌱 Learning Computer Vision, Generative AI and exploring Facebook's Llama Model
 
